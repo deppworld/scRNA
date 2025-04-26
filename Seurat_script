@@ -1,5 +1,3 @@
-##https://satijalab.org/seurat/articles/install_v5
-###https://satijalab.org/seurat/articles/pbmc3k_tutorial
 
 library(Seurat)
 library(SeuratData)
